@@ -1,1 +1,1 @@
-# Lenra-Community
+# Lenra
