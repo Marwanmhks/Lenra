@@ -1,1 +1,125 @@
 # Lenra
+
+<div id="top"></div>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <!-- <a href="https://github.com/lenra-io/template-hello-world-node12">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a> -->
+
+<h3 align="center">Lenra - beta version - </h3>
+
+  <p align="center">
+    Welcome to this amazing project, unifying in one place all the stuff you need to develop an app !
+    <br />
+    <br />
+    <!-- 
+    · -->
+   
+    ·
+   
+  </p>
+</div>
+
+<!-- GETTING STARTED -->
+## Manifesto
+
+Lenra aims at unifying the following objectives :
+
+
+Accelerate apps development and distribution: multi-operating system environment, supported hosting and deployment, data management
+
+
+Address the issues of digital sovereignty: open source technology, hosting within the European Union and independence from GAFAM
+
+
+Address environmental issues: optimize the environmental impact of apps by optimizing network exchanges and encouraging developers to be sober, limit obsolescence, limit the use of personal data
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Features of the beta version 
+
+For now we only provide Javascript language to code your app, but very soooooon you’ll be able to code in any language !! 
+
+In the beta version, you will have access to several features that will allow you to start developing with our solution. 
+
+You can generate the interface of the application you want to create and the interactions it will have. 
+
+You will also be able to manage user accounts and their data, manage user accounts and their hosting and also manage access authorizations to the application.
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Contribution
+
+Please keep in mind you are on a beta version of the dev platform, which means bugs can occur throughout your progress.
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contribution you make are **greatly appreciated**.
+
+If you have any idea of improvement please post here : 
+
+https://github.com/lenra-io/Lenra/discussions
+
+or report a bug here :
+
+https://github.com/lenra-io/Lenra/issues
+
+## Starter pack 
+
+To start your project follow the instructions below !
+
+https://github.com/lenra-io/template-hello-world-node12
+
+<!-- LICENSE -->
+## License
+
+Distributed under the **MIT** License. See [LICENSE](./LICENSE) for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+contact@lenra.io
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/lenra-io/template-hello-world-node12.svg?style=for-the-badge
+[contributors-url]: https://github.com/lenra-io/template-hello-world-node12/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lenra-io/template-hello-world-node12.svg?style=for-the-badge
+[forks-url]: https://github.com/lenra-io/template-hello-world-node12/network/members
+[stars-shield]: https://img.shields.io/github/stars/lenra-io/template-hello-world-node12.svg?style=for-the-badge
+[stars-url]: https://github.com/lenra-io/template-hello-world-node12/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lenra-io/template-hello-world-node12.svg?style=for-the-badge
+[issues-url]: https://github.com/lenra-io/template-hello-world-node12/issues
+[license-shield]: https://img.shields.io/github/license/lenra-io/template-hello-world-node12.svg?style=for-the-badge
+[license-url]: https://github.com/lenra-io/template-hello-world-node12/blob/master/LICENSE.txt
