@@ -39,7 +39,7 @@
     <!-- 
     · -->
    
-    ·
+    
    
   </p>
 </div>
@@ -61,7 +61,7 @@ Address environmental issues: optimize the environmental impact of apps by optim
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Features of the beta version 
+## Features of the beta version 
 
 For now we only provide Javascript language to code your app, but very soooooon you’ll be able to code in any language !! 
 
@@ -74,7 +74,9 @@ You will also be able to manage user accounts and their data, manage user accoun
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Contribution
+
+
+## Contribution
 
 Please keep in mind you are on a beta version of the dev platform, which means bugs can occur throughout your progress.
 
