@@ -92,7 +92,7 @@ https://github.com/lenra-io/Lenra/issues
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Starter pack 
+## Getting started 
 
 To start your project follow the instructions below !
 
