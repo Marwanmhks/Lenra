@@ -1,5 +1,3 @@
-# Lenra
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -21,10 +19,15 @@
 -->
 <!-- [![Contributors][contributors-shield]][contributors-url] 
 [![Issues][issues-shield]][issues-url] -->
-[![Twitter][twitter-shield]][twitter-url]
-[![Youtube][youtube-shield]][youtube-url]
-[![Reddit][reddit-shield]][reddit-url]
-[![Devto][devdotto-shield]][devdotto-url]
+<div align="center">
+  <!-- Keep one empty line -->
+  
+  [![Twitter][twitter-shield]][twitter-url]
+  [![Youtube][youtube-shield]][youtube-url]
+  [![Reddit][reddit-shield]][reddit-url]
+  [![Devto][devdotto-shield]][devdotto-url]
+</div>
+
 
 
 <!-- PROJECT LOGO -->
@@ -78,7 +81,13 @@ You will also be able to manage user accounts and their data, manage user accoun
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Where is the source code ? 
+We are planning to release the source of lenra under the MIT License but we are not ready yet.
+We first want to build a great tool that you will like. Only then we will provide you the source code of Lenra.
 
+We already released some of our tools and dependancies under an open source licence and more are coming !
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contribution
 
@@ -94,11 +103,17 @@ or report a bug here :
 
 https://github.com/lenra-io/Lenra/issues
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Starter pack 
 
 To start your project follow the instructions below !
 
 https://github.com/lenra-io/template-hello-world-node12
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
