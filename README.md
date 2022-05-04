@@ -1,24 +1,10 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
+<div align="center">
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url] 
-[![Issues][issues-shield]][issues-url] -->
+  [![Issues][issues-shield]][issues-url]
+  [![LenraBeta][lenra-beta-shield]][lenra-beta-url]
+</div>
 <div align="center">
   <!-- Keep one empty line -->
   
@@ -154,3 +140,5 @@ contact@lenra.io
 [devdotto-url]: https://dev.to/lenra
 [github-org-shield]: https://img.shields.io/github/stars/lenra-io?style=social
 [github-org-url]: https://github.com/lenra-io
+[lenra-beta-shield]: https://img.shields.io/badge/status-beta-orange?style=for-the-badge
+[lenra-beta-url]: https://www.lenra.io
