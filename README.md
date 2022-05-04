@@ -19,8 +19,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] 
+[![Issues][issues-shield]][issues-url] -->
+[![Twitter][twitter-shield]][twitter-url]
+[![Youtube][youtube-shield]][youtube-url]
+[![Reddit][reddit-shield]][reddit-url]
+[![Devto][devdotto-shield]][devdotto-url]
 
 
 <!-- PROJECT LOGO -->
@@ -125,3 +129,13 @@ contact@lenra.io
 [issues-url]: https://github.com/lenra-io/template-hello-world-node12/issues
 [license-shield]: https://img.shields.io/github/license/lenra-io/template-hello-world-node12.svg?style=for-the-badge
 [license-url]: https://github.com/lenra-io/template-hello-world-node12/blob/master/LICENSE.txt
+[twitter-shield]: https://img.shields.io/twitter/follow/lenra_dev?style=social
+[twitter-url]: https://twitter.com/lenra_dev
+[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UCsfPy59R3PTcFWtPO-Yklrw?style=social
+[youtube-url]: https://www.youtube.com/channel/UCsfPy59R3PTcFWtPO-Yklrw
+[reddit-shield]: https://img.shields.io/reddit/subreddit-subscribers/Lenra?style=social
+[reddit-url]: https://www.reddit.com/r/Lenra/
+[devdotto-shield]: https://img.shields.io/badge/dev.to/lenra-read%20us-brightgreen?style=social&logo=devdotto
+[devdotto-url]: https://dev.to/lenra
+[github-org-shield]: https://img.shields.io/github/stars/lenra-io?style=social
+[github-org-url]: https://github.com/lenra-io
