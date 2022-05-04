@@ -71,7 +71,7 @@ You will also be able to manage user accounts and their data, manage user accoun
 We are planning to release the source of lenra under the MIT License but we are not ready yet.
 We first want to build a great tool that you will like. Only then we will provide you the source code of Lenra.
 
-We already released some of our tools and dependancies under an open source licence and more are coming !
+We already released some of our tools and dependancies under an open source licence and more is coming !
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
