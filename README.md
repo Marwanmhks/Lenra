@@ -130,11 +130,11 @@ contact@lenra.io
 [issues-url]: https://github.com/lenra-io/Lenra
 [license-shield]: https://img.shields.io/github/license/lenra-io/template-hello-world-node12.svg?style=for-the-badge
 [license-url]: https://github.com/lenra-io/template-hello-world-node12/blob/master/LICENSE.txt
-[twitter-shield]: https://img.shields.io/twitter/follow/lenra_dev.svg?style=for-the-badge&logo=twitter&label=%40lenra_dev
+[twitter-shield]: https://img.shields.io/twitter/follow/lenra_dev.svg?style=for-the-badge&logo=twitter&label=%40lenra_dev&logoColor=white
 [twitter-url]: https://twitter.com/lenra_dev
 [youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UCsfPy59R3PTcFWtPO-Yklrw.svg?style=for-the-badge&label=Youtube&logo=youtube
 [youtube-url]: https://www.youtube.com/channel/UCsfPy59R3PTcFWtPO-Yklrw
-[reddit-shield]: https://img.shields.io/reddit/subreddit-subscribers/Lenra.svg?style=for-the-badge&logo=reddit&label=r%2Flenra
+[reddit-shield]: https://img.shields.io/reddit/subreddit-subscribers/Lenra.svg?style=for-the-badge&logo=reddit&label=r%2Flenra&logoColor=white
 [reddit-url]: https://www.reddit.com/r/Lenra/
 [devdotto-shield]: https://img.shields.io/badge/dev.to/lenra-read%20us-brightgreen.svg?style=for-the-badge&logo=devdotto
 [devdotto-url]: https://dev.to/lenra
