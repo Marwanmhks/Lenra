@@ -132,7 +132,7 @@ contact@lenra.io
 [license-url]: https://github.com/lenra-io/template-hello-world-node12/blob/master/LICENSE.txt
 [twitter-shield]: https://img.shields.io/twitter/follow/lenra_dev.svg?style=for-the-badge
 [twitter-url]: https://twitter.com/lenra_dev
-[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UCsfPy59R3PTcFWtPO-Yklrw.svg?style=for-the-badge
+[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UCsfPy59R3PTcFWtPO-Yklrw.svg?style=for-the-badge&label=Youtube
 [youtube-url]: https://www.youtube.com/channel/UCsfPy59R3PTcFWtPO-Yklrw
 [reddit-shield]: https://img.shields.io/reddit/subreddit-subscribers/Lenra.svg?style=for-the-badge
 [reddit-url]: https://www.reddit.com/r/Lenra/
